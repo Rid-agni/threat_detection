@@ -7,10 +7,15 @@ Project Overview
 This repository contains code and configuration for training and running a YOLOv7 model to detect weapons including rifles, handguns, grenades, knives, and more.
 
 Model Details
+
 Model Architecture: YOLOv7
+
 Input Size: 416×416
+
 Number of Classes: 9
+
 Classes:
+
 Automatic Rifle
 Bazooka
 Handgun
@@ -20,8 +25,6 @@ Shotgun
 SMG
 Sniper
 Sword
-
-
 1. Install dependencies:
    pip install -r requirements.txt
 
